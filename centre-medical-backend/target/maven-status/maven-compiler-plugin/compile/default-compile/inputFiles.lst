@@ -1,0 +1,13 @@
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\CentreMedicalApplication.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\config\CorsConfig.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\controller\MedecinController.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\controller\PatientController.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\controller\VisiteController.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\exception\GlobalExceptionHandler.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\exception\ResourceNotFoundException.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\model\Medecin.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\model\Patient.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\model\Visite.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\repository\MedecinRepository.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\repository\PatientRepository.java
+D:\java\gestion-visites-centre-medical\centre-medical-backend\src\main\java\com\centremedical\repository\VisiteRepository.java
